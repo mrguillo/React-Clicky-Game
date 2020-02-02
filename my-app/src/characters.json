@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "title": "Rick",
+        "image": "https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "title": "Squanchy",
+        "image": "https://media.giphy.com/media/125s4MWHrYAPlu/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "title": "PoopyButthole",
+        "image": "https://media.giphy.com/media/xTiTnKH3dDw1ww53R6/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "title": "Jerry",
+        "image": "https://media.giphy.com/media/S1phUc5mmaZqM/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "title": "Morty",
+        "image": "https://media.giphy.com/media/jcBp8Gx6AapxK/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "title": "Beth",
+        "image": "https://edge.alluremedia.com.au/m/k/2017/08/rick-and-morty-season-3-episode-2.gif",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "title": "Birdman",
+        "image": "https://i.imgur.com/mLAjKr1.gif?noredirect",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "title": "Pickle Rick",
+        "image": "https://media.giphy.com/media/JmPenP1svctdfDCEHi/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "title": "Jessica",
+        "image": "https://media.giphy.com/media/mvbQKr9g2WvD2/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "title": "Goldenfold",
+        "image": "https://media1.tenor.com/images/5f6261a20ad4f298c6f598d148b85eac/tenor.gif?itemid=6222696",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "title": "Summer",
+        "image": "https://media.giphy.com/media/S4HTo1uhqDplfhoaSk/giphy.gif",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "title": "Squanchy",
+        "image": "https://media.giphy.com/media/xTiTnJiCQH61TtkZ68/giphy.gif",
+        "isClicked": false
+    }
+]

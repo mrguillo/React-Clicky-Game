@@ -32,19 +32,19 @@
     {
         "id": 5,
         "title": "Beth",
-        "image": "https://edge.alluremedia.com.au/m/k/2017/08/rick-and-morty-season-3-episode-2.gif",
+        "image": "https://media.giphy.com/media/RjrA74OSKh0srBEt9V/giphy.gif",
         "isClicked": false
     },
     {
         "id": 6,
-        "title": "Birdman",
-        "image": "https://i.imgur.com/mLAjKr1.gif?noredirect",
+        "title": "Get Schwifty",
+        "image": "https://media.giphy.com/media/ln169NDydxs6n1zMgX/giphy.gif",
         "isClicked": false
     },
     {
         "id": 7,
         "title": "Pickle Rick",
-        "image": "https://media.giphy.com/media/JmPenP1svctdfDCEHi/giphy.gif",
+        "image": "https://media.giphy.com/media/iGGkp9dJfMelvlb4cB/giphy.gif",
         "clicked": false
     },
     {
@@ -55,20 +55,20 @@
     },
     {
         "id": 9,
-        "title": "Goldenfold",
-        "image": "https://media1.tenor.com/images/5f6261a20ad4f298c6f598d148b85eac/tenor.gif?itemid=6222696",
+        "title": "Mr. Meeseeks",
+        "image": "https://media.giphy.com/media/ZCf9QPRrWYzjDCEKTf/giphy.gif",
         "isClicked": false
     },
     {
         "id": 10,
         "title": "Summer",
-        "image": "https://media.giphy.com/media/S4HTo1uhqDplfhoaSk/giphy.gif",
+        "image": "https://media.giphy.com/media/j2S5g9wtSkeD8Xg1Tx/giphy.gif",
         "isClicked": false
     },
     {
         "id": 11,
-        "title": "Squanchy",
-        "image": "https://media.giphy.com/media/xTiTnJiCQH61TtkZ68/giphy.gif",
+        "title": "Scarry Terry",
+        "image": "https://media.giphy.com/media/lPY0CJlBT3tR3P84R5/giphy.gif",
         "isClicked": false
     }
 ]

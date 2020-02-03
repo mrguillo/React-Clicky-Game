@@ -1,7 +1,10 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import classNames from 'classnames';
 import "./FriendCard.css";
 
 const FriendCard = props => (
+
   <div 
     className="card" 
     value={props.id} 
@@ -11,6 +14,7 @@ const FriendCard = props => (
       <img alt={props.name} src={props.image} />
     </div>
   </div>
+
 );
 
 export default FriendCard;

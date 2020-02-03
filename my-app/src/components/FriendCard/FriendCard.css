@@ -1,26 +1,26 @@
-.card {
+/* .card {
     border: 5px #00B1C8 solid;
     width: 210px;
     height: 200px;
     margin: 10px;
     max-width: 100%;
     position: relative;
-    /* box-shadow: 2px 2px 2px rgb(56, 56, 56); */
     transition: all .1s ease-in-out;
+    text-align: left;
   }
   
   .card > .img-container {
     height: 100%;
-    max-width: 100%;
+    max-width: 00%;
     overflow: hidden;
-    /* background:rgb(255, 255, 255); */
+    background:rgb(255, 255, 255);
   }
   
   .card > .img-container > img {
-    height: 100%;
+    width: 100%;
   }
   
-  .card:hover {
+  .figure:hover {
     box-shadow: 8px 8px 20px rgb(241, 206, 3);
     transform: scale(1.1);
     cursor: pointer;
@@ -28,4 +28,27 @@
   
   .card:active {
     transform: translate(1px, 1px);
+  } */
+
+  .shadow-box-example {
+    height: 120px;
+    width: 100%;
+    /* background-color: #64b5f6; */
+  }
+
+  .figure:hover {
+    /* box-shadow: 4px 4px 10px ; */
+    transform: scale(1.1);
+    cursor: pointer;
+  }
+
+  .figure:active {
+    transform: translate(1px, 1px);
+  }
+
+  #caption {
+    color: #00B1C8;
+    font-family: 'Patrick Hand SC', cursive;
+    font-size: 140%;
+    text-align: center;
   }

@@ -1,20 +1,26 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import classNames from 'classnames';
+import Figure from 'react-bootstrap/Figure';
 import "./FriendCard.css";
 
 const FriendCard = props => (
 
-  <div 
-    className="card" 
-    value={props.id} 
-    onClick={() => props.handleClick(props.id)}
-  >
-    <div className="img-container">
-      <img alt={props.name} src={props.image} />
-    </div>
-  </div>
+    <Figure >
+      <Figure.Image
+        className="shadow p-3 mb-5 bg-white z-depth-5" 
+        width={171}
+        height={180}
+        alt="171x180"
+        value={props.id}
+        src={props.image}
+        onClick={() => props.handleClick(props.id)}
+        className="shadow-box-example z-depth-5"/>
+      <Figure.Caption id="caption" src={props.title}>
+      {props.title}
+      </Figure.Caption>
+    </Figure>
 
 );
+
 
 export default FriendCard;

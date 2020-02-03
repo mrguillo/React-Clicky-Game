@@ -92,6 +92,7 @@ class App extends Component {
                     handleReset={this.handleReset}
                     handleShuffle={this.handleShuffle}
                     id={friend.id}
+                    title={friend.title}
                     image={friend.image}/>
                 </Column>
               ))}

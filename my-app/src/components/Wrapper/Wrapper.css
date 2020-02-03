@@ -1,6 +1,8 @@
 .wrapper {
-    background: rgb(175, 175, 175);
+    background:white;
     background-image: url('https://images5.alphacoders.com/876/thumb-1920-876590.png');
+    background-repeat: no-repeat;
+    background-size: auto;
     height: 100%;
     display:flex;
     flex-flow: row wrap;

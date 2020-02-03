@@ -1,36 +1,16 @@
-nav {
+#nav {
     width: 100%;
     font-size: 2rem;
-    color: #fff;
-    margin-bottom: 30px;
-    background-color: #5133A4;
+
+    background-color: #00b1c8;
+    text-align: center;
+    border: 3px solid;
     opacity: 0.5;
     height: auto;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Patrick Hand SC', cursive;
+    padding: 10px;
   }
-  
-  a {
-    color: white;
-  }
-  
-  a:hover {
-    color: white;
-    text-decoration: none;
-  }
-  
-  nav li {
-    display: inline-block;
-    padding: 26px 0;
-    width: 25%;
-    /* text-align: center; */
-  }
-  
-  ul {
-    /* padding-left: 0px; */
-    display: flex;
-    align-items: center;
-  }
-  
+
   @media only screen and (max-width: 750px) {
     #cur-sco, #top-sco {
       font-size: 2rem;

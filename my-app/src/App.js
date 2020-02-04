@@ -8,6 +8,7 @@ import Container from "./Container";
 import Row from "./Row";
 import Column from "./Column";
 import friends from "./characters.json";
+import FooterPage from "./components/Footer"
 import "./App.css";
 
 function shuffleFriends(array) {
@@ -97,6 +98,9 @@ class App extends Component {
                 </Column>
               ))}
           </Row>
+        </Container>
+        <Container>
+          <FooterPage></FooterPage>
         </Container>
       </Wrapper>
     );

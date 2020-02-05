@@ -97,11 +97,11 @@ class App extends Component {
                     image={friend.image}/>
                 </Column>
               ))}
+          <FooterPage></FooterPage>
           </Row>
         </Container>
-        <Container>
-          <FooterPage></FooterPage>
-        </Container>
+
+
       </Wrapper>
     );
   }
